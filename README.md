@@ -8,3 +8,10 @@ talk directly from a chatbox instead of calling service centers. Facebook releas
 More than 2 billion messages are sent between people and companies monthly. The HubSpot research tells us that
 71% of people want to get customer support from messaging apps. It is a quick way to get their problems solved so
 chatbots have a bright future in organizations.
+
+Prerequisites:
+To implement the chatbot, we will be using Keras, which is a Deep Learning library, NLTK, which is a Natural
+Language Processing toolkit, and some helpful libraries. Run the below command to make sure all the libraries are
+installed:
+pip install tensorflow keras pickle nltk
+
